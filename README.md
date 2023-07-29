@@ -16,8 +16,9 @@ It includes:
 
 ## How to install the dashboard
 
-1. Go to https://portal.azure.com
-2. Ensure that you can access to the subscription that has Azure Arc-enabled SQL Server
-3. Go to dashboard, click "Upload", select "azure-arc-enabled-sql-dashboard.json"
+1. Download "azure-arc-enabled-sql-dashboard.json" file from this repository
+2. Go to https://portal.azure.com
+3. Ensure that you can access to the subscription that has Azure Arc-enabled SQL Server
+4. Go to dashboard, click "Upload", select "azure-arc-enabled-sql-dashboard.json"
 
 ![howto](img/howto.png)
